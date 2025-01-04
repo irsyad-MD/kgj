@@ -1,0 +1,14 @@
+/*
+ISI DATABASE MYSQL MU DI DATABASE PHP MY ADMIN HOST YANG LU PAKE
+*/
+{
+    "ownerBot": [
+        "62895342022385"
+    ],
+    "database": {
+        "host": "localhost",
+        "user": "root",
+        "password": "",
+        "database": "botwa"
+    }
+}
